@@ -27,7 +27,8 @@ pip install pillow
 
 termux-setup-storage
 
----
+cd steganografi-tool
+python stego_tool.py
 
 💻 Instalasi di Linux (Kali / Ubuntu / Debian)
 
