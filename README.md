@@ -27,6 +27,8 @@ pip install pillow
 
 termux-setup-storage
 
+git clone https://github.com/selzzgtggg21maret-crypto/steganografi-tool.git
+
 cd steganografi-tool &&
 python stego_tool.py
 
